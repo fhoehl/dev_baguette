@@ -1,23 +1,23 @@
-Le Javascript, c'est trop corporate.
-Je vais te dockeriser un truc.
-J'ai envie de faire une grosse infra.
-Viens on va coder une app.
-J'ai fait tomber du fromage sur mon clavier.
+Le Javascript, c'est trop corporate. #developper #corporate
+Je vais te dockeriser un truc. #dockerallthethings
+J'ai envie de faire une grosse infra. #aws
+Viens on va coder une app. #millionnaire
+J'ai fait tomber du fromage sur mon clavier. #firstworldproblems
 Qui c'est qu'a mangé mon jambon-beurre ? #launch #french #cassecroûte #emmental
-Les gars, vous avez pas vu trainer mon bêret ?
+Les gars, vous avez pas vu trainer mon bêret ? #frenchtouch
 La bière ça va bien 5 minutes, mais le vin c'est quand même meilleur. #fridaybeer #london #siliconroundabout
-En voilà une API qui envoie du paté !
+En voilà une API qui envoie du paté ! #sexyapi
 London Eye c'est sympa mais ça vaut quand même pas la Tour Montparnasse. #cestleweekend #ilpleut
 C'est galère de trouver un clavier bépo en France. Alors imagine à Londres... #fierdetrefrancais
 Ils sont bien gentils avec leur rugby, n'empêche que Chabal il les mangeait tous. #rugby #jyconnaisrien
-My code is not compiloting.
-Je travaille tellement dans le cloud que mes collègues m'appellent Claude-François.
-What are we going to become?
-T'as commencé à réfléchir à ce que tu voulais faire de ta vie ?
+My code is not compiloting. #cacompilotepas
+Je travaille tellement dans le cloud que mes collègues m'appellent Claude-François. #cloud #electrique
+What are we going to become? #overthink
+T'as commencé à réfléchir à ce que tu voulais faire de ta vie ? #overthink
 T'es plutôt #Cacolac ou #Ovomaltine ?
-Quand j'arrive le matin sur les coups de 11h-11h02, j'ai la pêche !
-Les bugs sont des balles et les claviers des raquettes avec lesquels on fait des millions.
-Le downlotage seems to have plantouiller.
-Le Project Manager nous avait promis des knackis.. :'( #agile
-React c'est trop mainstream.
-LUNCHITO TIMITO !
+Quand j'arrive le matin sur les coups de 11h-11h02, j'ai la pêche ! #maci #cogip #startup
+Les bugs sont des balles et les claviers des raquettes avec lesquels on fait des millions. #maci #cogip #startup
+Le downlotage seems to have plantouiller. #bsod
+Le Project Manager nous avait promis des knackis.. :'( #agile #promessenontenue
+React c'est trop mainstream. #clojure
+LUNCHITO TIMITO ! #miam #nomnomnom
