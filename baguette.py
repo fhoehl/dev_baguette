@@ -5,6 +5,7 @@ import os
 import random
 
 from birdy.twitter import UserClient
+from birdy.twitter import TwitterApiError
 
 CONSUMER_KEY = os.environ['CONSUMER_KEY']
 CONSUMER_SECRET = os.environ['CONSUMER_SECRET']
@@ -19,5 +20,11 @@ client = UserClient(CONSUMER_KEY,
 
 with open(QUOTES_FILE_PATH, 'r') as quotes:
   random_line = random.choice(quotes.readlines())
-  client.api.statuses.update.post(status=random_line)
+  while True:
+      try:
+          client.api.statuses.update.post(status=random_line)
+      except TwitterApiError:
+          continue
+      else:
+          break
 
