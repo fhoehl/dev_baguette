@@ -23,3 +23,4 @@ React c'est trop mainstream. #clojure
 LUNCHITO TIMITO ! #miam #nomnomnom
 Je viens de comprendre que mon boss ne m’invite pas pour un café quand il me dit "late" chaque matin. #noparloenglish
 Mon Vim avec tout ces plugins il ressemble à un sapin de Noël #noel #sapin #vim
+Mon alias préféré : alias vin="vim" #vim #.zshrc
