@@ -25,3 +25,4 @@ Je viens de comprendre que mon boss ne m’invite pas pour un café quand il me 
 Mon Vim avec tout ces plugins il ressemble à un sapin de Noël #noel #sapin #vim
 Mon alias préféré : alias vin="vim" #vim #.zshrc
 Les tests c'est comme les antibiotiques... C'est pas automatique. #yolo #vinauclavier
+Déploiement réussi ! Il y a pot ! #pasdedeploiementlevendredi #ricard
