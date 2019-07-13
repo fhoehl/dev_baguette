@@ -27,3 +27,4 @@ Mon alias préféré : alias vin="vim" #vim #.zshrc
 Les tests c'est comme les antibiotiques... C'est pas automatique. #yolo #vinauclavier
 Déploiement réussi ! Il y a pot ! #pasdedeploiementlevendredi #ricard
 CSS, c'est pas du couscous ? #bientôtmidi #jaifaim
+10x ! 10x ! Est-ce que j’ai une gueule de 10x ? #ninja #10x
