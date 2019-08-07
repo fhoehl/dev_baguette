@@ -28,3 +28,5 @@ Les tests c'est comme les antibiotiques... C'est pas automatique. #yolo #vinaucl
 Déploiement réussi ! Il y a pot ! #pasdedeploiementlevendredi #ricard
 CSS, c'est pas du couscous ? #bientôtmidi #jaifaim
 10x ! 10x ! Est-ce que j’ai une gueule de 10x ? #ninja #10x
+Je debug... J'ai envie de manger des burgers. #jaifaim #debug #developpeur #dadjokes
+console.log("c'est passé par ici"); console.log("ca repassera par la"); #debug #javascript #startup
