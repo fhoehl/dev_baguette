@@ -32,3 +32,4 @@ Je debug... J'ai envie de manger des burgers. #jaifaim #debug #developpeur #dadj
 console.log("c'est passé par ici"); console.log("ca repassera par la"); #debug #javascript #startup
 Ça me word-press-les-burnes #php #blog
 My taylor is rich. My manager is rich. #japprendslanglais #manager
+Interneto && Pinot #vin #apero #jevaistoutachetersuramazon
